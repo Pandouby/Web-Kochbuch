@@ -152,7 +152,7 @@ main{
   
 .card-image{
     grid-area: image;
-    background: url("image1.jfif");
+    background: url("/recources/image1.jfif");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -160,7 +160,7 @@ main{
 
 .card-image2 {
     grid-area: image;
-    background: url("image2.jfif");
+    background: url("/recources/image2.jfif");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
